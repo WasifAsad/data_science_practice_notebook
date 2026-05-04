@@ -10,7 +10,7 @@ Phase 1 ──► Phase 2 ──► Phase 3 ──► Phase 4 ──► Phase 5 
   Python      NumPy       Stats &      Machine     SQL for    Portfolio
   Basics    & Pandas       EDA         Learning   Data Sci.   Projects
 
-📚 Phase Breakdown
+<h2>📚 Phase Breakdown</h2>
 🐍 Phase 1 — Python Fundamentals
 
 The foundation everything else is built on.
